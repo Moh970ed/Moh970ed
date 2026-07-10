@@ -1,10 +1,11 @@
 <div id="top"></div>
 <div align="center"><img width="100%" alt="welcome to my profile!" src="./images/Header.jpeg"></div>
 
- <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=0751F7&width=435&lines=I'm+Mohammad+Elsayed;Game+Developer+%26+Programmer;Cyber+Security+Enthusiast;I'm+from+Egypt" alt="Typing SVG" /></a>
-</div> 
-
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=0751F7&width=920&center=true&vCenter=true&lines=I'm+Mohammad+Elsayed;Game+Developer+%26+Programmer;Cyber+Security+Enthusiast;I'm+from+Egypt" alt="Typing SVG" />
+    </a>
+</div>
 
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/Moh970ed"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/Moh970ed"><img align="right" width="%" src="https://komarev.com/ghpvc/?username=Moh970ed&style=for-the-badge&color=blue"></a>
@@ -59,6 +60,9 @@
 
 
 <p align="center">
+  <a href="https://github.com/Moh970ed/Moh970ed/blob/main/CV.pdf" download="CV_Mohammad_Elsayed.pdf">
+    <img src="https://img.shields.io/badge/Download_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="download CV" />
+  </a>
   <a href="https://www.linkedin.com/in/mohammed-el-sayed-3a8a62331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -77,7 +81,6 @@
   <a href="https://wa.me/message/5VHWM24IR6HBB1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</p
 
 
 
@@ -123,6 +126,78 @@
 </div>
 
 
+<a href="https://github.com/Moh970ed">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
+
+<h3 align="center">
+ <a href="https://github.com/Moh970ed">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/Moh970ed">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿My Games & Projects】  
+</h3>
+
+<a href="https://github.com/Moh970ed">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+> [!NOTE]
+> A complete collection of my games and projects.
+
+<!--Project 1 -->
+<details>
+<summary><b>Car-Wash</b> 🚗 ShineHub Car Wash Management System .</summary>
+<img src="https://github.com/Moh970ed/Car-Wash/blob/main/img/img1.png" alt="Car-Wash" />
+  
+* [Repo](https://github.com/Moh970ed/Car-Wash)
+  
+</details>
+
+
+<!--Project 2 -->
+<details>
+<summary><b>AnderMagic</b> The game features engaging gameplay that combines jumping, running, and using magic to defeat enemies and collect coins.</summary>
+<img src="https://github.com/Moh970ed/AnderMagic/blob/main/img/img.jpg" alt="AnderMagic" />
+  
+* [Repo](https://github.com/Moh970ed/AnderMagic)
+  
+</details>
+
+<!--Project 3 -->
+<details>
+<summary><b>First_Game</b> The first game I made on the (Godot) engine .</summary>
+<img src="https://github.com/Moh970ed/First_Game/blob/main/assets/images/img.png" alt="First_Game" />
+  
+* [Repo](https://github.com/Moh970ed/First_Game)
+  
+</details>
+<!--Project 4 -->
+
+<details>
+<summary><b>Hide_And_Sink</b></summary>
+<img src="https://img.itch.zone/aW1nLzI1NzMzNTczLnBuZw==/original/sQULjz.png" alt="Hide_And_Sink" />
+  
+* [Repo](https://mechazen.itch.io/hide-and-sink)
+* [Play Now](https://mechazen.itch.io/hide-and-sink)
+  
+</details>
+
+<!--Project 5 -->
+
+<details>
+<summary><b>ModelScout</b>Your ultimate companion for AI model discovery. A high-speed, ultra-stable tool to explore and audit LLM .</summary>
+<img src="https://github.com/Moh970ed/ModelScout/blob/main/%7B7351C09D-0C0C-4FF8-9481-229D41C417C0%7D.png" alt="ModelScout" />
+  
+* [Repo](https://github.com/Moh970ed/ModelScout)
+
+  
+</details>
+
+
+
 
 <a href="https://github.com/Moh970ed">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -146,46 +221,6 @@
 
 
 
-<p align="center">
- <br/>
-<a href="https://github.com/Moh970ed"><img align="center" width="%" src="https://img.shields.io/github/followers/Moh970ed?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
-
- <p align="center">
-<a href="https://github.com/Moh970ed">
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Moh970ed&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Moh970ed github stats"/>
-
-</a>
-
-
-<br/>
-
-
-</p>
-
-
-
-
- <details open align="center">
-  <summary>📈 More Stats</summary>
-  <br>
- 
-<p align="center">
-<a href="https://github.com/Moh970ed"> 
- 
-</a></p>
-
-<p align="center">
 <div align="center">
- <a href="https://github.com/Moh970ed"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moh970ed&theme=algolia" width="100%" /> </br></br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moh970ed&theme=algolia" width="31%" align="left"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moh970ed&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moh970ed&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
- </a>
-
- [![Moh970ed github streak](https://github-readme-streak-stats.herokuapp.com/?user=Moh970ed&theme=algolia&card_width=1000)](https://github.com/Moh970ed) </br></br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Moh970ed&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)]() </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Moh970ed&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Moh970ed) \r\n</div>\r\n\r\n <div align=\"center\">\r\n</p>\r\n<br/>\r\n</details>\r\n\r\n</p>\r\n<!-- <p align=\"center\">\r\n<a href=\"https://github.com/Moh970ed\">\r\n   <img alt=\"github-snake\" src=\"https://raw.githubusercontent.com/Moh970ed/Moh970ed/output/github-snake-darkBlue.svg\" title=\"🐍 Watch how the snake's eating my contributions\" />\r\n</a> -->\r\n<a href=\"https://github.com/Moh970ed\">\r\n <picture>\r\n  <!-- <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/Moh970ed/Moh970ed/pacman/pacman-contribution-graph-dark.svg\"> -->\r\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/Moh970ed/pacman/pacman-contribution-graph.svg\">\r\n  <!-- <img alt=\"pacman contribution graph\" src=\"https://raw.githubusercontent.com/Moh970ed/pacman/pacman-contribution-graph.svg\"> -->\r\n</picture>\r\n</a>\r\n</p>\r\n\r\n\r\n<p align=\"center\">\r\n  <img align=\"center\" width=\"%\" src=\"https://raw.githubusercontent.com/Moh970ed/Moh970ed/output/github-contribution-grid-snake.svg\" title=\"🐍 Watch how the snake's eating my contributions\" />\r\n</p>\r\n\r\n\r\n<a href=\"https://github.com/walidbosso\"> \r\n <img align=\"center\" src=\"./images/citytheme.gif\" width=\"60%\" align=\"center\">   \r\n</a>\r\n\r\n\r\n <p align=\"center\">\r\n  <a href=\"https://github.com/Moh970ed\"><img src=\"https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18\"></a>\r\n</p>
+ <img src="https://streak-stats.demolab.com?user=moh970ed&theme=tokyonight&hide_border=true" alt="moh970ed's GitHub Stats" />
+</div>
